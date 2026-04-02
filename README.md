@@ -1,7 +1,7 @@
 
 # C2-Hunter-Engine 🛡️
 ---
-**C2-Hunter-Engine** es una herramienta de **Threat Intelligence** desarrollada en Python para la auditoría y análisis avanzado de reputación de red. Está diseñada para identificar infraestructuras maliciosas, detectar técnicas de evasión como el "Cloud Masking" y correlacionar indicadores de compromiso (IOCs) en tiempo real.
+**C-NET* es una herramienta de **Threat Intelligence** desarrollada en Python para la auditoría y análisis avanzado de reputación de red. Está diseñada para identificar infraestructuras maliciosas, detectar técnicas de evasión como el "Cloud Masking" y correlacionar indicadores de compromiso (IOCs) en tiempo real.
 
 ## 🚀 Capacidades Principales
 
@@ -43,5 +43,3 @@ ABUSEIPDB_KEY=tu_api_key_aqui
 **Nota**: Este proyecto es para fines de investigación y fortalecimiento de posturas de seguridad. No utilizar para fines no autorizados.
 
 ---
-
-¿Te gustaría que te ayude a crear el archivo `.gitignore` para asegurar que tu repo esté 100% blindado antes de subirlo?
