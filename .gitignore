@@ -1,0 +1,9 @@
+# No subir la llave de API
+.env
+
+# No subir los reportes generados con datos reales
+SOC_C2_Report_*.xlsx
+
+# No subir carpetas de sistema
+__pycache__/
+.venv/
